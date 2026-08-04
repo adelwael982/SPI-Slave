@@ -1,0 +1,1 @@
+Here is a simple spi slave with its ram. Here i only tested the slave alone and made the testbench act as the ram it might be wrong when connected together but each one works alone so it should in theory work together 
